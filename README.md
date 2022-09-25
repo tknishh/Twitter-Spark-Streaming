@@ -4,7 +4,7 @@ Apache Spark Streaming is quite popular. Due to its integrated technology, Spark
 Python and Spark Streaming do wonders for industry giants when used together. Netflix is an excellent Python/Spark Streaming representation: the people behind the popular streaming platform have produced multiple articles about how they use the technique to help us enjoy Netflix even more. Let’s get started with the basics.
 
 # Structure
-![flow]()
+![flow](https://github.com/tknishh/Twitter-Spark-Streaming/blob/master/Images/structure.png)
 
 Now that we have gone through building a real-life solution of spark streaming pipeline, let’s list down some pros and cons of using this approach.
 
