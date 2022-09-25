@@ -1,0 +1,5 @@
+Api key - ZCSFj2T9NPYDKAOfm8DfwqlWC
+secret - bDdFPxVz6Lzl358yLc5jDgqoTRpxl6zEHqxt67sxGtkdeFMpGR
+Bearer token - AAAAAAAAAAAAAAAAAAAAALq9hQEAAAAA6w5jqmzoIUPOPFRtuVutAic7mDI%3DuUJyZZlYWwnxJKkpmQtL74U9TA37Z14Mk7EL3L5bW7jFf10D8j
+client ID - YTlYVTFfYmU0Vmp5SVlZWEVzQzg6MTpjaQ
+client secret - AfMwYYBiTGotmxh8Rs0KTTtuv4m9rwLwkkUq1egs0ODuRFiY1-
