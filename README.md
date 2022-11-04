@@ -6,7 +6,7 @@ Python and Spark Streaming do wonders for industry giants when used together. Ne
 # Structure
 ![flow](https://github.com/tknishh/Twitter-Spark-Streaming/blob/master/Images/structure.png)
 
-Now that we have gone through building a real-life solution of spark streaming pipeline, let’s list down some pros and cons of using this approach.
+ow that we have gone through building a real-life solution of spark streaming pipeline, let’s list down some pros and cons of using this approach.
 
 ## Pros
 
